@@ -1,10 +1,3 @@
-Here is the **README.md** file content in a single file format.  
-
-You can copy and save it as `README.md` in your GitHub repository.  
-
----
-
-```md
 # 📈 Stock Price Prediction Using Time Series Analysis  
 
 This project forecasts stock prices using **ARIMA** and **LSTM** models. We:  
