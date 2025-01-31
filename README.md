@@ -233,11 +233,6 @@ python stock_price_prediction.py
 
 ## 📌 Author  
 
-Developed by **[Your Name]**  
+Developed by **[Ayesha Tariq]**  
 
 ✅ If you found this project useful, feel free to ⭐ the repo! 🚀  
-```
-
----
-
-Now, just save the above content in a file named **README.md** and upload it to your GitHub repository! 🚀 Let me know if you need any modifications!
